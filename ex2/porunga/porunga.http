@@ -1,0 +1,6 @@
+@porunga_HostAddress = http://localhost:5135
+
+GET {{porunga_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
